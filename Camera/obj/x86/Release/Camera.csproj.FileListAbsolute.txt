@@ -1,0 +1,17 @@
+D:\Projects\C#\BROKEN\CameraSuper\Camera\obj\x86\Release\Camera.Form1.resources
+D:\Projects\C#\BROKEN\CameraSuper\Camera\obj\x86\Release\Camera.Properties.Resources.resources
+D:\Projects\C#\BROKEN\CameraSuper\Camera\obj\x86\Release\Camera.csproj.GenerateResource.Cache
+D:\Projects\C#\BROKEN\CameraSuper\Camera\obj\x86\Release\Camera.pdb
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\Camera.exe.config
+D:\Projects\C#\BROKEN\CameraSuper\Camera\obj\x86\Release\Camera.csprojResolveAssemblyReference.cache
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\Camera.exe
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\Camera.pdb
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Controls.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Imaging.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Math.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Video.DirectShow.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Video.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Video.FFMPEG.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\bin\Release\AForge.Video.VFW.dll
+D:\Projects\C#\BROKEN\CameraSuper\Camera\obj\x86\Release\Camera.exe
